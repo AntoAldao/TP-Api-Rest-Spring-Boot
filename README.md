@@ -18,7 +18,7 @@ API REST simple para la gestión de productos desarrollada con Spring Boot. Prov
 1. Clonar el repositorio:
 
 ```powershell
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/AntoAldao/TP-Api-Rest-Spring-Boot
 cd TP-Api-Rest-Spring-Boot
 ```
 
